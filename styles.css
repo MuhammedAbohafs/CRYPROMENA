@@ -120,6 +120,7 @@ video{
   header{
     display: flex;
     flex-direction: row;
+    padding-bottom: 20px;
   }
   .subsecrib input{
     margin: 5px 0;
