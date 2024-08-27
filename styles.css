@@ -97,7 +97,13 @@ footer p{
 h3{
   margin: 4px 2px;
 }
-footer >p a{
+.our-links{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+footer >p a{  
   text-decoration: 0;
   color: lightblue;
 }
